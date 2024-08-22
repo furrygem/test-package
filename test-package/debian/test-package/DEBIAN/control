@@ -1,0 +1,9 @@
+Package: test-package
+Version: 1.0.0
+Architecture: amd64
+Maintainer: furrygem <gem@gemlikes.coffee>
+Installed-Size: 11
+Section: misc
+Priority: optional
+Multi-Arch: foreign
+Description: auto-generated package by debmake
