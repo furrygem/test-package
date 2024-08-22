@@ -1,3 +1,9 @@
+test-package (2.0.0) noble; urgency=medium
+
+  * Update to 2.0
+
+ -- furrygem <gem@gemlikes.coffee>  Thu, 22 Aug 2024 06:46:09 +0000
+
 test-package (1.0.0) noble; urgency=medium
 
   * Initial release.
